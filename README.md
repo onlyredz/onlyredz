@@ -1,3 +1,5 @@
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/TallesHtk/74099e2c1fd4dc3265ec1b37c4004ef7/raw/cb25547b69b78e69227a51849c54629ae49e89e7/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm REDZ</h1>
 
 - 🔥 Junior web developer & Semi beginner in programming

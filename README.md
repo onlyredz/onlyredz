@@ -8,9 +8,8 @@
 
 - 👨‍💻 My projects are still private...
 
-- 💬 Ask me about **JS, Lua, CSS, Xml, Python and Games**
+- 💬 Ask me about **C#, JS, Lua, CSS, Xml, Python and Games**
 
-- ⚡ Fun fact **I started this all for fun 😜**
 
 <br><br>
 

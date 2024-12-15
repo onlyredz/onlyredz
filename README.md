@@ -17,15 +17,13 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![Windows10](https://img.shields.io/badge/-Windows%2010-05122A?style=flat&logo=Windows)&nbsp;
-![Kali](https://img.shields.io/badge/-KaliLinux-05122A?style=flat&logo=Kalilinux)&nbsp;
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-05122A?style=flat&logo=TryHackMe)&nbsp;
 ![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=SublimeText)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=7a297a)&nbsp;
-![C#]([https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp](https://img.shields.io/badge/:badgeContent?logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fbd%2FLogo_C_sharp.svg%2F910px-Logo_C_sharp.svg.png
-))&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=sharp)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

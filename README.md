@@ -2,7 +2,7 @@
 
 - 🔥 Average dev in all my tech's
 
-- 🔭 I’m currently working at None 😭
+- 🔭 I am currently working on no projects
 
 - 👨‍💻 My projects are still private...
 

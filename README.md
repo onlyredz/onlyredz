@@ -32,8 +32,6 @@
   </a>
 </div>
 
-<p>If you want to contact me, click the Gmail icon or copy my email: <strong>onlyredzdev@gmail.com</strong></p>
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -41,3 +39,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=onlyredz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+# Contact
+<p>If you want to contact me, send an email to: <strong>onlyredzdev@gmail.com</strong></p>

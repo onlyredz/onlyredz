@@ -23,8 +23,10 @@
 
 ## 🌐 Social
 
-<div> 
+<div> https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail
   <a href="https://discord.com/users/896514062714822696" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" target="_blank"></a>
+<a href="mailto:onlyredzdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail" target="_blank">
+</a>
 </div>
 
 ## 📊 Estatísticas GitHub

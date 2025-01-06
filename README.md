@@ -27,11 +27,12 @@
   <a href="https://discord.com/users/896514062714822696" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" target="_blank">
   </a>
-  <button onclick="copyEmail()">Copy Email</button>
   <a href="mailto:onlyredzdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
 </div>
+
+<p>If you want to contact me, click the Gmail icon or copy my email: <strong>onlyredzdev@gmail.com</strong></p>
 
 ## 📊 Estatísticas GitHub
 
@@ -40,14 +41,3 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=onlyredz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<script>
-  function copyEmail() {
-    const email = 'onlyredzdev@gmail.com';
-    navigator.clipboard.writeText(email).then(function() {
-      alert('Email Copied!');
-    }).catch(function(error) {
-      console.error('Error copying email: ', error);
-    });
-  }
-</script>

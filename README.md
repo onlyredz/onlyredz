@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C#, JS, Lua, CSS, Xml, Python and Games**
 
-## 🚀 My Tech's ⚙
+## 🚀 My Tech's 
   
 <div style="display: inline_block">
   <img align="center" alt="Visual Studio" height="30" width="28" src="https://raw.githubusercontent.com/onlyredz/my-icons/main/icons/visualstudio.png">

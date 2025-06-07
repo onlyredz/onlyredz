@@ -1,4 +1,9 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="Waving Hand" width="40px">, I'm REDZ</h1>
+<p align="center">
+  <img src="https://i.imgur.com/X2wK8Dv.png" width="500px">
+</p>
+
+<h1 align="center"></h1>
+
 
 - 🔥 Average dev in all my tech's
 

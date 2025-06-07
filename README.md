@@ -36,10 +36,15 @@
 
 <div align="center">
   <a href="https://github.com/onlyredz">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyredz&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyredz&theme=nord&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&theme=nord&show_icons=true&hide_border=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=onlyredz&theme=nord&show_icons=true&hide_border=true&count_private=true" width="500" />
+  </a>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyredz&theme=nord&hide_border=true" width="500" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&theme=nord&show_icons=true&hide_border=true&layout=compact" width="500" />
 </div>
+
+
 
 # Contact
 <p>If you want to contact me, send an email to: <strong>onlyredzdev@gmail.com</strong></p>

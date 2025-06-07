@@ -35,9 +35,10 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/ivisconfessor">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=onlyredz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/onlyredz">
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyredz&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyredz&theme=nord&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&theme=nord&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 # Contact

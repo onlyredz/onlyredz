@@ -14,9 +14,6 @@
 - 💬 Ask me about **C#, JS, Lua, CSS, Xml, Python and Games**
 
 ## 🚀 My Tech Stack
-
-## 🚀 My Tech Stack
-
 <!-- Ferramentas -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git" />

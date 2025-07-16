@@ -15,30 +15,33 @@
 
 ## 🚀 My Tech Stack
 
-### 🧰 Ferramentas
+## 🚀 My Tech Stack
+
+<!-- Ferramentas -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git" />
 </p>
 
-### 🌐 Frontend
+<!-- Frontend -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
 </p>
 
-### 💻 Backend & Desktop
+<!-- Backend & Desktop -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,nodejs,electron,lua" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,nodejs,lua,electron" />
 </p>
 
-### 🛢️ Bancos de Dados
+<!-- Banco de Dados -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
 </p>
 
-### 🔗 API & Web Tools
+<!-- API & Web Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,swagger" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
+
 
 
 ## 🌐 Social

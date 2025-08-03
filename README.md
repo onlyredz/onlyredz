@@ -34,12 +34,17 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
 </p>
 
+<!-- OP Systems -->
+<p align="center">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+</p>
+</p>
+
 <!-- API & Web Tools -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
-
-
 
 ## 🌐 Social
 

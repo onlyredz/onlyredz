@@ -37,7 +37,7 @@
 <!-- OP Systems -->
 <p align="center">
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,kali,linux" />
 </p>
 </p>
 

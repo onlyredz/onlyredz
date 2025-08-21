@@ -65,8 +65,6 @@
   </a>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&theme=nord&show_icons=true&hide_border=true&layout=compact" width="500" />
-  <br />
-  <img src="https://github-contributor-stats.vercel.app/api?username=onlyredz&hide=B&theme=nord" width="500" />
 </div>
 
 

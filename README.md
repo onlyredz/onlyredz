@@ -61,13 +61,12 @@
 
 <div align="center">
   <a href="https://github.com/onlyredz">
-    <img src="https://github-readme-stats.vercel.app/api?username=onlyredz&theme=nord&show_icons=true&hide_border=true&count_private=true" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api?username=onlyredz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="500" />
   </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyredz&theme=vue-dark&hide_border=true" width="508" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&theme=nord&show_icons=true&hide_border=true&layout=compact" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyredz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="500" />
 </div>
-
-
 
 
 # Contact

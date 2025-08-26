@@ -21,7 +21,7 @@
 
 <!-- Frontend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,svelte,tailwind" />
 </p>
 
 <!-- Backend & Desktop -->

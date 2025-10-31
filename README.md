@@ -9,7 +9,7 @@
 
 - 🔭 I am currently not working on any projects
 
-- 👨‍💻 My projects are still private...
+- 👨‍💻 Some projects are still private and personal.
 
 - 💬 Ask me about **C#, JS, Lua, and Games**
 

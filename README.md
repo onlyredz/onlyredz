@@ -21,12 +21,12 @@
 
 <!-- Frontend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,svelte,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,svelte,tailwind,tauri" />
 </p>
 
 <!-- Backend & Desktop -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,nodejs,lua,electron" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,nodejs,lua,rust,ruby,rails,electron" />
 </p>
 
 <!-- Banco de Dados -->

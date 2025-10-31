@@ -11,7 +11,7 @@
 
 - 👨‍💻 My projects are still private...
 
-- 💬 Ask me about **C#, JS, Lua, CSS, Xml, Python and Games**
+- 💬 Ask me about **C#, JS, Lua, and Games**
 
 ## 🚀 My Tech Stack
 <!-- Ferramentas -->

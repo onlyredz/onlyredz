@@ -7,7 +7,7 @@
 
 - 🔥 Average dev in all my tech's
 
-- 🔭 I am currently not working on any projects
+- 🔭 I am currently working at @basyvon
 
 - 👨‍💻 Some projects are still private and personal.
 

@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-header.svg" alt="Talles REDZ Henrique — C-Level and Developer at Basvyon" />
+<img width="100%" src="./assets/profile-header.png" alt="Talles REDZ Henrique — C-Level and Developer at Basvyon" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">

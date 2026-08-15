@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-header.png" alt="Talles REDZ Henrique — C-Level and Developer at Basvyon" />
+<img width="100%" src="./assets/profile-header.svg" alt="Talles REDZ Henrique — C-Level and Developer at Basvyon" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,6 +9,9 @@
 <p align="center">
   <a href="https://github.com/basvyon">
     <img src="https://img.shields.io/badge/Basvyon-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Basvyon on GitHub" />
+  </a>
+  <a href="https://basvyon.com.br">
+    <img src="https://img.shields.io/badge/Basvyon-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Basvyon website" />
   </a>
   <a href="mailto:onlyredzdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact me by email" />

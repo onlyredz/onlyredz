@@ -65,9 +65,12 @@
 
 | Project | Focus | Status |
 | :--- | :--- | :---: |
-| **Basvyon** | Strategy, technology and development of digital products | Active |
+| **Basvyon** | Strategy, design and engineering for digital products | Active |
+| **AI Briefing** | Lead qualification and intelligent project discovery | In development |
+| **Client Portal** | Transparent project progress and client communication | In development |
 
 </div>
+
 
 ## Current focus
 

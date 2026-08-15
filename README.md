@@ -26,6 +26,9 @@
 - C-Level and Developer at **[Basvyon](https://github.com/basvyon)**, working at the intersection of business, technology and product development.
 - Combining executive decision-making with hands-on software engineering.
 - Focused on building **reliable digital products, web systems and business automation**.
+- Some projects remain private while they are being developed, tested or validated.
+- Ask me about C#, Lua, React, TypeScript.
+> I apologize if I haven't answered something.
 
 ## Tech stack
 
@@ -79,8 +82,6 @@
   <img src="https://img.shields.io/badge/ROLE-C--LEVEL%20%2B%20DEVELOPER-7C3AED?style=for-the-badge&amp;labelColor=111111" alt="C-Level and Developer" />
   <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20DIGITAL%20PRODUCTS-7C3AED?style=for-the-badge&amp;labelColor=111111" alt="Focused on software and digital products" />
 </p>
-
-> GitHub already displays the native contribution calendar below this README. I keep this profile focused on real work, current capabilities and the products I’m helping build.
 
 ## Let’s build something useful
 
